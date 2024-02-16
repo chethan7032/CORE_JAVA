@@ -5,20 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6521e53-ac66-4416-a34b-2ad46e580060" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CORE_JAVA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/W3Resources/BasicExercisePart1/Multiplication_table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/W3Resources/BasicExercisePart1/hello_world.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/core_java/ASSIGNMENT4_Strings/question2_number_of_words_in_a_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core_java/ASSIGNMENT4_Strings/question2_number_of_words_in_a_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/core_java/ASSIGNMENT4_Strings/question4_reverse_a_string.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/core_java/ASSIGNMENT4_Strings/question3_occurance_of_character_in_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/core_java/ASSIGNMENT4_Strings/question3_occurance_of_character_in_string.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
